@@ -1,82 +1,127 @@
-# Hi there, I'm Amol Sawant 👋
-### Software Engineer | Python Backend & AI Applications
+<h1 align="center">Hi there, I'm Amol Sawant 👋</h1>
 
-<p align="left">
-  <a href="https://linkedin.com/in/amol-sawant-5b2929236"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sawantamolo48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Python+Backend;AI+%26+RAG+Applications+Builder;3%2B+Years+Building+Scalable+Systems;FastAPI+%7C+Django+%7C+LangChain+%7C+LangGraph" alt="Typing SVG" />
 </p>
 
-I am a **Software Developer with 3+ years of professional experience** designing and developing scalable Python backend systems, distributed applications, and enterprise AI-powered solutions[cite: 1]. I specialize in production-ready asynchronous microservices, event-driven architectures, and advanced AI platforms utilizing Retrieval-Augmented Generation (RAG)[cite: 1].
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 About Me
 
-### 📂 Backend & Core Architecture
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square)
-![Asynchronous Programming](https://img.shields.io/badge/Async_Programming-4B0082?style=flat-square)
-
-### 🧠 Enterprise AI & LLM Ops
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square)
-![RAG & Agents](https://img.shields.io/badge/RAG_&_AI_Agents-008080?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_&_Hybrid_Search-FF4500?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse_/_LangSmith-00A86B?style=flat-square)
-
-### 🗄️ Databases & Distributed Systems
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
-![Qdrant](https://img.shields.io/badge/Qdrant-0096FF?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+- 💼 Software Engineer at **Varos Technology (Geon)**, Pune — building since Feb 2023
+- 🐍 3+ years designing scalable **Python backend systems** and distributed applications
+- 🤖 Building **enterprise AI applications** with LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)
+- 📡 Experience with real-time IoT platforms using MQTT, Redis Streams, and WebSockets
+- 🔍 Passionate about hybrid search, vector databases, and event-driven architecture
+- 📍 Based in Pune, Maharashtra, India
+- 📫 Reach me at **sawantamol048@gmail.com**
 
 ---
 
-## 🚀 Highlighted Projects
+### 🛠️ Tech Stack
 
-### 💡 Enterprise AI Knowledge Search Platform
-> **Stack:** `FastAPI` | `LangGraph` | `LangChain` | `Elasticsearch` | `Qdrant` | `MongoDB` | `Docker` | `Langfuse`[cite: 1]
+**Backend & Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,html,css,react" />
+</p>
 
-* **Core Innovation:** Built an enterprise AI platform that lets users query legal policies, SOPs, and manuals using intuitive natural language[cite: 1].
-* **Hybrid Retrieval:** Created an advanced pipeline integrating Elasticsearch BM25, semantic vector search, Reciprocal Rank Fusion (RRF), and Cross-Encoder reranking for highly accurate data matching[cite: 1].
-* **Agentic Workflows:** Used LangGraph to execute context-aware RAG pipelines that output precise, source-cited responses backed by confidence scores[cite: 1].
-* **Observability:** Configured Langfuse to trace complex AI agent steps, calculate latency, and continually monitor retrieval quality against a custom golden dataset[cite: 1].
+**AI & Search**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+</p>
 
-### 🔋 Real-Time IoT Telemetry Platform
-> **Stack:** `FastAPI` | `MQTT` | `AWS IoT Core` | `Redis Streams` | `MongoDB` | `WebSockets` | `AWS S3`[cite: 1]
+**Databases & Storage**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws" />
+</p>
 
-* **High-Throughput Ingestion:** Designed an asynchronous ingestion service handling continuous, heavy battery telemetry data stream loads[cite: 1].
-* **Live Dashboards:** Implemented reliable WebSocket connections pushing immediate alerts and live telemetry data straight to active frontend dashboards[cite: 1].
-* **Secure FOTA:** Automated secure OTA/FOTA firmware delivery pipelines using AWS IoT Core, Redis, and encrypted AWS S3 storage[cite: 1].
-
-### 📋 Enterprise Complaint & Warranty Management Platform
-> **Stack:** `Django REST Framework` | `PostgreSQL` | `AWS S3` | `Celery` | `Redis`[cite: 1]
-
-* **Business Logic:** Standardized after-sales service systems including product registrations, warranty checks, and lifecycle workflows[cite: 1].
-* **Security & Performance:** Authored complex role-based access control policies (RBAC) and optimized Postgres relational models to support fast dashboard loading times[cite: 1].
+**Distributed Systems & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
+</p>
 
 ---
 
-## 📈 Professional Experience
+### 📊 GitHub Stats
 
-* **Software Developer** | *Varos Technology (Geon)* `Feb 2023 - Present`[cite: 1]
-* **Software Trainee** | *Skylight Software Solutions* `Nov 2021 - Dec 2022`[cite: 1]
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amol127&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amol127&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amol127&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amol127&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🛠️ Let's Connect!
+### 📌 Featured Work
 
-* **Location:** Pune, Maharashtra, India 📍[cite: 1]
-* **Resume Reference:** *Amol_Sawant_Software_Developer.pdf* 📁
-* **Portfolio & Code:** Check out my repositories below! 👇
+**🔌 Real-Time IoT Telemetry Platform**
+FastAPI · MQTT · AWS IoT Core · Redis Streams · MongoDB · WebSockets · AWS S3
+Asynchronous backend for real-time battery telemetry ingestion, OTA/FOTA firmware deployment, and live fleet monitoring dashboards.
+
+**🎫 Complaint Management Platform**
+Django REST Framework · PostgreSQL · AWS S3 · Celery · Redis
+End-to-end after-sales platform covering product registration, warranty validation, and complaint lifecycle management with secure REST APIs.
+
+**🧠 Enterprise AI Knowledge Search Platform**
+FastAPI · LangGraph · LangChain · Elasticsearch · MongoDB · Qdrant · OpenAI · Docker · Langfuse
+Natural-language search over policies, SOPs, and compliance docs using hybrid retrieval (BM25 + vector search + RRF + cross-encoder reranking) with grounded, cited AI responses.
+
+<p align="center">
+  <a href="https://github.com/amol127/fitness_booking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amol127&repo=fitness_booking&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/amol127/Real-Time-Doc-Editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amol127&repo=Real-Time-Doc-Editor&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amol127/Robust_Teacher_Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amol127&repo=Robust_Teacher_Portal&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/amol127/Tkinrer-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amol127&repo=Tkinrer-UI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amol-sawant-5b2929236" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sawantamol048@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/amol127" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amol127&label=Profile%20Views&color=2E86C1&style=flat" />
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repos and reach out.</i></p>
