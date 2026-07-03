@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amol Sawant 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=440&lines=Python+Backend+Developer;API+%26+Backend+Systems+Builder;2%2B+Years+of+Experience;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Python+Backend;AI+%26+RAG+Applications+Builder;3%2B+Years+Building+Scalable+Systems;FastAPI+%7C+Django+%7C+LangChain+%7C+LangGraph" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,18 +12,43 @@
 
 ### 🚀 About Me
 
-- 🐍 I'm a **Python Backend Developer** with 2+ years of experience building scalable, efficient APIs and backend systems
-- 💼 Currently working at **Geon Enargy**
-- 📍 Based in **Pune, India**
-- 🌱 Always exploring new backend tools and frameworks
-- 🤝 Open to collaborating on Python/backend projects
+- 💼 Software Engineer at **Varos Technology (Geon)**, Pune — building since Feb 2023
+- 🐍 3+ years designing scalable **Python backend systems** and distributed applications
+- 🤖 Building **enterprise AI applications** with LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)
+- 📡 Experience with real-time IoT platforms using MQTT, Redis Streams, and WebSockets
+- 🔍 Passionate about hybrid search, vector databases, and event-driven architecture
+- 📍 Based in Pune, Maharashtra, India
+- 📫 Reach me at **sawantamol048@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Backend & Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,mongodb,git,github,docker,html,js" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,html,css,react" />
+</p>
+
+**AI & Search**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+</p>
+
+**Databases & Storage**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws" />
+</p>
+
+**Distributed Systems & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
 </p>
 
 ---
@@ -45,7 +70,19 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Work
+
+**🔌 Real-Time IoT Telemetry Platform**
+FastAPI · MQTT · AWS IoT Core · Redis Streams · MongoDB · WebSockets · AWS S3
+Asynchronous backend for real-time battery telemetry ingestion, OTA/FOTA firmware deployment, and live fleet monitoring dashboards.
+
+**🎫 Complaint Management Platform**
+Django REST Framework · PostgreSQL · AWS S3 · Celery · Redis
+End-to-end after-sales platform covering product registration, warranty validation, and complaint lifecycle management with secure REST APIs.
+
+**🧠 Enterprise AI Knowledge Search Platform**
+FastAPI · LangGraph · LangChain · Elasticsearch · MongoDB · Qdrant · OpenAI · Docker · Langfuse
+Natural-language search over policies, SOPs, and compliance docs using hybrid retrieval (BM25 + vector search + RRF + cross-encoder reranking) with grounded, cited AI responses.
 
 <p align="center">
   <a href="https://github.com/amol127/fitness_booking">
@@ -73,7 +110,7 @@
   <a href="https://www.linkedin.com/in/amol-sawant-5b2929236" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:sawantamol048@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amol127" target="_blank">
